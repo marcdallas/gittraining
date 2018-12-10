@@ -1,2 +1,0 @@
-﻿Résolution manuelle du conflit
-modif master pour rebase
