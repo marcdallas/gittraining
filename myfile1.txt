@@ -1,1 +1,2 @@
-Résolution manuelle du conflit
+﻿Résolution manuelle du conflit
+modif master pour rebase
