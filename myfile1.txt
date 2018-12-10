@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 Modification #1
+<<<<<<< HEAD
 Modification #2
 Modification ammend
 =======
 >>>>>>> parent of 44610f6... Second Update
+=======
+Modification #2
+>>>>>>> parent of c2cff95... Third Update
