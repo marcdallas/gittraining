@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Modification #1
 Modification #2
 Modification ammend
+=======
+>>>>>>> parent of 44610f6... Second Update
