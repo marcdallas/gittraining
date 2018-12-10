@@ -1,1 +1,1 @@
-modif master pour conflit
+Résolution manuelle du conflit
